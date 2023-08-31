@@ -8,11 +8,13 @@ ROAD MAP
 
 3.Linux
 
-4.Data Warehouse Fundamentals
+4.Snowflake
 
-5.Learn Batch Processing + Tool: Spark Fundamentals
+5.Data Warehouse Fundamentals
 
-6.Learn RealTime Streaming : Realtime Streaming (Kafka)
+6.Learn Batch Processing + Tool: Spark Fundamentals
 
-7.Data Orchestration (AirFlow)
+7.Learn RealTime Streaming : Realtime Streaming (Kafka)
+
+8.Data Orchestration (AirFlow)
 
